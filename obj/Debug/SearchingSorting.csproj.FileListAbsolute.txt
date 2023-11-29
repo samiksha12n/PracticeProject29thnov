@@ -1,0 +1,7 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\29th Assignment\SearchingSorting\SearchingSorting\bin\Debug\SearchingSorting.exe.config
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\29th Assignment\SearchingSorting\SearchingSorting\bin\Debug\SearchingSorting.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\29th Assignment\SearchingSorting\SearchingSorting\bin\Debug\SearchingSorting.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\29th Assignment\SearchingSorting\SearchingSorting\obj\Debug\SearchingSorting.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\29th Assignment\SearchingSorting\SearchingSorting\obj\Debug\SearchingSorting.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\29th Assignment\SearchingSorting\SearchingSorting\obj\Debug\SearchingSorting.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\29th Assignment\SearchingSorting\SearchingSorting\obj\Debug\SearchingSorting.pdb
